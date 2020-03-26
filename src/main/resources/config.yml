@@ -1,0 +1,7 @@
+##############################################
+#	      FlashlightPlus Config File         #        
+##############################################
+#Messages(ColorCode Support)
+FlashlightOnMsg: '&dFlashlight - &7[&a&lON&7]'
+FlashlightOffMsg: '&dFlashlight - &7[&c&lOFF&7]'
+
